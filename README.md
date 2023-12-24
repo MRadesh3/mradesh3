@@ -2,7 +2,7 @@
 
 <h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>, I'm Adesh Salsundar ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<h5 align="left">I'm Adesh Santosh Salsundar 😊. I'm from Pune, Maharashtra and I have completed my B.Tech in Electronics and Telecommunication Engineering from Dr. Babasaheb Ambedkar Technological University. I'm a skilled web developer passionate about crafting user-centric and visually appealing websites. Proficient in JavaScript, Next.js, React.js, Node.js, MongoDB, HTML, and CSS, I bring ideas to life through clean and efficient code.</h5>
+<h4 align="left">I'm Adesh Santosh Salsundar 😊. I'm from Pune, Maharashtra and I have completed my B.Tech in Electronics and Telecommunication Engineering from Dr. Babasaheb Ambedkar Technological University. I'm a skilled web developer passionate about crafting user-centric and visually appealing websites. Proficient in JavaScript, Next.js, React.js, Node.js, MongoDB, HTML, and CSS, I bring ideas to life through clean and efficient code.</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-adesh_salsundar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adesh-salsundar-a73b4121a/)](https://www.linkedin.com/in/adesh-salsundar-a73b4121a/) &nbsp;&nbsp;&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-adeshsalsundar1713@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adeshsalsundar1713@gmail.com)](mailto:adeshsalsundar1713@gmail.com)
