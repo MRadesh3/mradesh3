@@ -18,7 +18,7 @@ Talk to me about:
 - Backend development using **Node JS**.
 - Database Management System like **MongoDB**.
 - Fun fact **Can speak JavaScript fluently, and my favorite word is 'console.log('Hello, World!')'**.
-- 
+  
 <h3 align="left">Languages and Tools : </h3> 
 <br>
 <p align="left"> 
