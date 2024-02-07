@@ -2,11 +2,13 @@
 
 <h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>, I'm Adesh Salsundar ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<h4 align="justify">I'm Adesh Santosh Salsundar 😊. I'm from Pune, Maharashtra and I have completed my B.Tech in Electronics and Telecommunication Engineering from Dr. Babasaheb Ambedkar Technological University. I'm a skilled web developer passionate about crafting user-centric and visually appealing websites. Proficient in JavaScript, Next.js, React.js, Node.js, MongoDB, HTML, and CSS, I bring ideas to life through clean and efficient code.</h4>
+<h4 align="justify">I'm Adesh Santosh Salsundar 😊. Results-oriented and analytical web developer with a creative approach to crafting user-centric websites to enhance
+user engagement. Proficient in a versatile tech stack including JavaScript, Next.js, React.js, Node.js, Express.js,
+MongoDB, HTML, and CSS. Seeking to transition into a full-stack role, committed to efficient code creation.</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-adesh_salsundar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adesh-salsundar-a73b4121a/)](https://www.linkedin.com/in/adesh-salsundar-a73b4121a/) &nbsp;&nbsp;&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-adeshsalsundar1713@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adeshsalsundar1713@gmail.com)](mailto:adeshsalsundar1713@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-%F0%9F%9A%80-9cf?style=flat-square&logo=rocket&link=[https://your-portfolio-url.com](https://adesh-nine.vercel.app/))](https://adesh-nine.vercel.app/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-%F0%9F%9A%80-9cf?style=flat-square&logo=rocket&link=[https://your-portfolio-url.com](https://adeshsalsundar.online/))](https://adeshsalsundar.online/)
 
 
 
