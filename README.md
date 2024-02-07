@@ -18,7 +18,7 @@ MongoDB, HTML, and CSS. Seeking to transition into a full-stack role, committed 
 
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS**.
-- Web Development Frameworks like **NEXT JS, React JS, Bootstrap**.
+- Web Development Frameworks and tools like **NEXT.js, React.js, Express.js, Bootstrap, Redux, Three.js, Git, VS code**.
 - CSS Frameworks like **Tailwind CSS**.
 - Backend development using **Node JS**.
 - Database Management System like **MongoDB**.
